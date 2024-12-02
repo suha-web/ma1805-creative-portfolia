@@ -1,0 +1,1 @@
+this is the more diffucult projects. i found downloading the image difucult and wanted to do a simple code for this exercise. i downloaded an ant piece called 'journey through the layers of the mind' by memo akten. he uses ai to create his pieces his work encourages peope to see the world from a different prepective. i added a filter to emphasis the colours

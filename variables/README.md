@@ -1,0 +1,1 @@
+i also found ths one the most difucult. i creaeted moving squares across a pink background with different sizes. i used GIT coding for inspiration. i find moving coding diffcult as i am new at coding. i coded roating coding for variables. 

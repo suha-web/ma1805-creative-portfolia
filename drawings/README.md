@@ -1,0 +1,1 @@
+for this first code i found it more simple. i used different sized cicrles and chosed the colours to match the reference. i am proud of this piece as it matces the pcture. 
